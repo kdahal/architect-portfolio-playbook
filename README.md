@@ -8,7 +8,7 @@
 
 ## Overview
 
-Welcome to the **Architect Portfolio Playbook** – a hands-on, demo-ready repository designed to showcase the technical prowess, business acumen, and leadership skills required for a Solutions Architect (Applied Engineer) role at Deepgram. This playbook is tailored to demonstrate how I (Kiran Dahal) align with Deepgram's mission to deliver exceptional post-sales technical support, scalable automation, and customer-centric innovation in speech recognition and AI technologies.
+Welcome to the **Architect Portfolio Playbook** – a hands-on, demo-ready repository designed to showcase the technical prowess, business acumen, and leadership skills required for a Solutions Architect (Applied Engineer) role at Deepgram. This playbook is tailored to demonstrate how I align with Deepgram's mission to deliver exceptional post-sales technical support, scalable automation, and customer-centric innovation in speech recognition and AI technologies.
 
 Drawing from Deepgram's job description for a support-focused Applied Engineer, this repo maps directly to the role's core pillars:
 - **Technical Needs**: Building API-first solutions, automation tools, and cloud-native infrastructure.
@@ -190,6 +190,6 @@ MIT License – feel free to fork, adapt, or use in your own portfolios. See [LI
 
 ---
 
-**Connect with Me**: [LinkedIn](https://linkedin.com/in/kdahal) | [Portfolio](https://kdahal.dev) | Email: kiran@kdahal.dev
+**Connect with Me**: [LinkedIn](https://linkedin.com/in/kdahal) | [Portfolio](kumar.dahal@outlook.com) | Email: Kumar Dahal
 
 *Built with ❤️ Applied Engineering team – let's build scalable AI experiences together!*
