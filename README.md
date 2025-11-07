@@ -190,6 +190,6 @@ MIT License – feel free to fork, adapt, or use in your own portfolios. See [LI
 
 ---
 
-**Connect with Me**: [LinkedIn](https://linkedin.com/in/kdahal) | [Portfolio](kumar.dahal@outlook.com) | Email: Kumar Dahal
+**Connect with Me**: [LinkedIn](https://www.linkedin.com/in/kumar-dahal/ ) | Email: kumar.dahal@outlook.com
 
 *Built with ❤️ Applied Engineering team – let's build scalable AI experiences together!*
